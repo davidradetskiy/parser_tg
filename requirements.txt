@@ -1,0 +1,4 @@
+asyncpg==0.30.0
+loguru==0.7.3
+telethon==1.39.0
+python-dotenv==1.0.0
